@@ -1,0 +1,6 @@
+/* Layers of Tailwind */
+/* Basics of Tailwind */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+

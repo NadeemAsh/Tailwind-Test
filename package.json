@@ -1,0 +1,24 @@
+{
+  "name": "ticketing",
+  "version": "1.0.0",
+  "description": "\"# Tailwind-Test\"",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./input.css -o ./css/main.css",
+    "watch": "tailwindcss -i ./input.css -o ./css/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NadeemAsh/Tailwind-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NadeemAsh/Tailwind-Test/issues"
+  },
+  "homepage": "https://github.com/NadeemAsh/Tailwind-Test#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.0.23"
+  }
+}
